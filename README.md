@@ -1,4 +1,4 @@
-### 📖 Wavelet Guided State Space Model for Infrared Samll Target Detection
+### 📖 State Space Model with Dynamic Frequency Cue for Infrared Samll Target Detection
 
 <hr/>
 
